@@ -1,0 +1,6 @@
+{
+    "wake.compiler.solc.remappings": [
+        "@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/",
+        "@chainlink/contracts/=lib/chainlink-brownie-contracts/contracts/"
+    ]
+}
